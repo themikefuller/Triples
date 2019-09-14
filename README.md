@@ -1,2 +1,2 @@
 # Triples
-Starbase Triplestore
+Triplestore
